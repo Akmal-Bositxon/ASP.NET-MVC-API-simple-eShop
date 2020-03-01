@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\eShopDAL\bin\Debug\eShopDB.mdf
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\eShopDAL\bin\Debug\eShopDB_log.ldf
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\eShopDAL\bin\Debug\eShopDAL.dll.config
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\eShopDAL\bin\Debug\eShopDAL.dll
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\eShopDAL\bin\Debug\eShopDAL.pdb
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\eShopDAL\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\eShopDAL\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\eShopDAL\obj\Debug\eShopDAL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\eShopDAL\obj\Debug\eShopDAL.csproj.CopyComplete
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\eShopDAL\obj\Debug\eShopDAL.dll
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\eShopDAL\obj\Debug\eShopDAL.pdb
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\eShopDAL\bin\Debug\UserDB.mdf
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\eShopDAL\bin\Debug\UserDB_log.ldf
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\eShopDAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\eShopDAL\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\eShopDAL\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,48 @@
+﻿@model WAD.CW2_WebApp._5529.Models.ProductViewModel
+@using Resources
+@{
+    ViewBag.Title = "Delete";
+}
+
+    <h2>@Html.Raw(ProductsTerms.Delete)</h2>
+
+    <h3>@Html.Raw(Test.AreYouSure)</h3>
+<div>
+    <h4>@Html.Raw(Global.Products)</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName(ProductsTerms.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayName(ProductsTerms.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayName(ProductsTerms.Category)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Category)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value=@Html.Raw(ProductsTerms.Delete) class="btn btn-default" /> |
+            @Html.ActionLink(Global.Products, "Index")
+        </div>
+    }
+</div>

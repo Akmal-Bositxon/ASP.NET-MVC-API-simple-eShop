@@ -1,0 +1,1 @@
+2020-02-25 15:18:10.5174|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmal23456 registered succesfully

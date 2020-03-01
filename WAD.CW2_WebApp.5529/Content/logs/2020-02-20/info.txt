@@ -1,0 +1,36 @@
+2020-02-20 00:00:10.1229|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-20 00:41:09.2928|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-20 00:41:09.4798|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-20 01:42:21.5745|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-20 02:06:06.4983|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-20 03:48:40.8387|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-20 04:24:48.3588|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User created a product Artel Tomchi 
+2020-02-20 05:52:55.2986|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-20 06:14:05.7011|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-20 06:14:17.1614|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-20 14:29:08.7884|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|fsbaffsb registered succesfully
+2020-02-20 14:29:33.8984|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-20 15:34:08.7588|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|HelloHey registered succesfully
+2020-02-20 15:35:17.2184|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|HelloHey logged in
+2020-02-20 15:36:46.4969|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User Hello Helloev edited a product Artel Premiuim with Id 80 
+2020-02-20 15:57:44.3936|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User Hello Helloev edited a product Artel Premiuim with Id 80 
+2020-02-20 16:29:29.1821|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmal registered succesfully
+2020-02-20 17:44:50.5772|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmal111 registered succesfully
+2020-02-20 17:56:20.7784|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmal666 registered succesfully
+2020-02-20 19:47:44.8285|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|AAA11 registered succesfully
+2020-02-20 19:48:01.9318|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmal logged in
+2020-02-20 19:49:27.2180|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User Akmal Bositkhonov created a product Leno 
+2020-02-20 19:49:49.9105|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User Akmal Bositkhonov edited a product Artel Premiuim with Id 80 
+2020-02-20 19:50:06.1809|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User Akmal Bositkhonov deleted a product  with Id 80 
+2020-02-20 19:50:11.5386|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User Akmal Bositkhonov deleted a product  with Id 109 
+2020-02-20 19:50:27.2832|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User deleted a product Lenovo with Id 131 
+2020-02-20 19:50:28.1790|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User deleted a product Mouse with Id 130 
+2020-02-20 19:50:28.6841|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User deleted a product Mouse with Id 128 
+2020-02-20 19:50:29.0761|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User deleted a product Lenovo with Id 127 
+2020-02-20 19:50:29.2141|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User deleted a product Mouse with Id 126 
+2020-02-20 19:50:29.4596|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User deleted a product Lenovo with Id 125 
+2020-02-20 19:50:30.4911|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User deleted a product Mouse with Id 122 
+2020-02-20 19:50:48.1197|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User created a product LenoveLas 
+2020-02-20 19:50:49.9366|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User created a product LenoveLas 
+2020-02-20 19:50:50.4285|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User created a product LenoveLas 
+2020-02-20 19:51:34.8646|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmal logged in

@@ -1,0 +1,72 @@
+C:\Users\Farrukh\wad2016\Resources\bin\Debug\Resources.dll
+C:\Users\Farrukh\wad2016\Resources\bin\Debug\Resources.pdb
+C:\Users\Farrukh\wad2016\Resources\bin\Debug\ru\Resources.resources.dll
+C:\Users\Farrukh\wad2016\Resources\obj\Debug\Resources.csproj.GenerateResource.Cache
+C:\Users\Farrukh\wad2016\Resources\obj\Debug\ru\Resources.resources.dll
+C:\Users\Farrukh\wad2016\Resources\obj\Debug\Resources.dll
+C:\Users\Farrukh\wad2016\Resources\obj\Debug\Resources.pdb
+C:\Users\Farrukh\wad2016\Resources\obj\Debug\Resources.Index.resources
+C:\Users\Farrukh\wad2016\Resources\obj\Debug\Resources.Index.ru.resources
+C:\Users\Farrukh\wad2016\Resources\obj\Debug\Resources.csprojResolveAssemblyReference.cache
+D:\Hala MAdrid\BIS\Classes 2017-2018\WAD\WAD2\Tutorial.Auth + Globalization\Tutorial.Auth\Resources\bin\Debug\Resources.dll
+D:\Hala MAdrid\BIS\Classes 2017-2018\WAD\WAD2\Tutorial.Auth + Globalization\Tutorial.Auth\Resources\bin\Debug\Resources.pdb
+D:\Hala MAdrid\BIS\Classes 2017-2018\WAD\WAD2\Tutorial.Auth + Globalization\Tutorial.Auth\Resources\bin\Debug\ru\Resources.resources.dll
+D:\Hala MAdrid\BIS\Classes 2017-2018\WAD\WAD2\Tutorial.Auth + Globalization\Tutorial.Auth\Resources\obj\Debug\Resources.csprojResolveAssemblyReference.cache
+D:\Hala MAdrid\BIS\Classes 2017-2018\WAD\WAD2\Tutorial.Auth + Globalization\Tutorial.Auth\Resources\obj\Debug\Resources.Index.resources
+D:\Hala MAdrid\BIS\Classes 2017-2018\WAD\WAD2\Tutorial.Auth + Globalization\Tutorial.Auth\Resources\obj\Debug\Resources.Global.resources
+D:\Hala MAdrid\BIS\Classes 2017-2018\WAD\WAD2\Tutorial.Auth + Globalization\Tutorial.Auth\Resources\obj\Debug\Resources.Index.ru.resources
+D:\Hala MAdrid\BIS\Classes 2017-2018\WAD\WAD2\Tutorial.Auth + Globalization\Tutorial.Auth\Resources\obj\Debug\Resources.Global.ru.resources
+D:\Hala MAdrid\BIS\Classes 2017-2018\WAD\WAD2\Tutorial.Auth + Globalization\Tutorial.Auth\Resources\obj\Debug\Resources.csproj.GenerateResource.Cache
+D:\Hala MAdrid\BIS\Classes 2017-2018\WAD\WAD2\Tutorial.Auth + Globalization\Tutorial.Auth\Resources\obj\Debug\ru\Resources.resources.dll
+D:\Hala MAdrid\BIS\Classes 2017-2018\WAD\WAD2\Tutorial.Auth + Globalization\Tutorial.Auth\Resources\obj\Debug\Resources.dll
+D:\Hala MAdrid\BIS\Classes 2017-2018\WAD\WAD2\Tutorial.Auth + Globalization\Tutorial.Auth\Resources\obj\Debug\Resources.pdb
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Debug\Resources.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Debug\Resources.Category.resources
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Debug\Resources.Index.resources
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Debug\Resources.Global.resources
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Debug\Resources.Category.ru.resources
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Debug\Resources.Index.ru.resources
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Debug\Resources.Global.ru.resources
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Debug\Resources.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\bin\Debug\Resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\bin\Debug\Resources.pdb
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\bin\Debug\ru\Resources.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Debug\ru\Resources.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Debug\Resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Debug\Resources.pdb
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Debug\Resources.Product.resources
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Debug\Resources.Product.ru.resources
+C:\Users\User\Downloads\Telegram Desktop\ArbaUz00003646\ArbaUz\Resources\bin\Debug\Resources.dll
+C:\Users\User\Downloads\Telegram Desktop\ArbaUz00003646\ArbaUz\Resources\bin\Debug\Resources.pdb
+C:\Users\User\Downloads\Telegram Desktop\ArbaUz00003646\ArbaUz\Resources\bin\Debug\ru\Resources.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\ArbaUz00003646\ArbaUz\Resources\obj\Debug\Resources.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Telegram Desktop\ArbaUz00003646\ArbaUz\Resources\obj\Debug\Resources.Category.resources
+C:\Users\User\Downloads\Telegram Desktop\ArbaUz00003646\ArbaUz\Resources\obj\Debug\Resources.Index.resources
+C:\Users\User\Downloads\Telegram Desktop\ArbaUz00003646\ArbaUz\Resources\obj\Debug\Resources.Global.resources
+C:\Users\User\Downloads\Telegram Desktop\ArbaUz00003646\ArbaUz\Resources\obj\Debug\Resources.Product.resources
+C:\Users\User\Downloads\Telegram Desktop\ArbaUz00003646\ArbaUz\Resources\obj\Debug\Resources.Category.ru.resources
+C:\Users\User\Downloads\Telegram Desktop\ArbaUz00003646\ArbaUz\Resources\obj\Debug\Resources.Index.ru.resources
+C:\Users\User\Downloads\Telegram Desktop\ArbaUz00003646\ArbaUz\Resources\obj\Debug\Resources.Global.ru.resources
+C:\Users\User\Downloads\Telegram Desktop\ArbaUz00003646\ArbaUz\Resources\obj\Debug\Resources.Product.ru.resources
+C:\Users\User\Downloads\Telegram Desktop\ArbaUz00003646\ArbaUz\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Telegram Desktop\ArbaUz00003646\ArbaUz\Resources\obj\Debug\ru\Resources.resources.dll
+C:\Users\User\Downloads\Telegram Desktop\ArbaUz00003646\ArbaUz\Resources\obj\Debug\Resources.dll
+C:\Users\User\Downloads\Telegram Desktop\ArbaUz00003646\ArbaUz\Resources\obj\Debug\Resources.pdb
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\Resources\bin\Debug\Resources.dll
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\Resources\bin\Debug\Resources.pdb
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\Resources\bin\Debug\ru\Resources.resources.dll
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\Resources\obj\Debug\Resources.csprojAssemblyReference.cache
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\Resources\obj\Debug\Resources.Category.resources
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\Resources\obj\Debug\Resources.Index.resources
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\Resources\obj\Debug\Resources.Global.resources
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\Resources\obj\Debug\Resources.Category.ru.resources
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\Resources\obj\Debug\Resources.Index.ru.resources
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\Resources\obj\Debug\Resources.Global.ru.resources
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\Resources\obj\Debug\ru\Resources.resources.dll
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\Resources\obj\Debug\Resources.dll
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\Resources\obj\Debug\Resources.pdb
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\Resources\obj\Debug\Resources.Test.resources
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\Resources\obj\Debug\Resources.Test.ru.resources
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\Resources\obj\Debug\Resources.ProductsTerms.resources
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\Resources\obj\Debug\Resources.ProductsTerms.ru.resources

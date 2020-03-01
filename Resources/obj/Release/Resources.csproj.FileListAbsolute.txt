@@ -1,0 +1,16 @@
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\bin\Release\Resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\bin\Release\Resources.pdb
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\bin\Release\ru\Resources.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Release\Resources.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Release\Resources.Category.resources
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Release\Resources.Index.resources
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Release\Resources.Global.resources
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Release\Resources.Product.resources
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Release\Resources.Category.ru.resources
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Release\Resources.Index.ru.resources
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Release\Resources.Global.ru.resources
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Release\Resources.Product.ru.resources
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Release\Resources.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Release\ru\Resources.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Release\Resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Release\Resources.pdb

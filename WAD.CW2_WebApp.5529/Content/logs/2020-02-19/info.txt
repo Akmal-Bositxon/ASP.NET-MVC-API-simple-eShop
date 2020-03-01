@@ -1,0 +1,42 @@
+2020-02-19 13:23:45.5494|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-19 13:27:09.2466|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-19 13:27:14.5084|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User Akmal Bositkhonov edited a product ASUS with Id 1 
+2020-02-19 13:29:41.6160|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-19 13:30:17.6333|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User Akmal Bositkhonov edited a product ASUS with Id 1 
+2020-02-19 13:35:32.6149|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-19 13:36:30.0814|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-19 13:36:37.9321|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-19 13:36:54.4942|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User Akmal Bositkhonov deleted a product  with Id 7 
+2020-02-19 13:37:18.5634|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User Akmal Bositkhonov created a product Lenovo with Id 0 
+2020-02-19 13:39:03.1212|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-19 13:39:48.0318|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-19 13:40:18.6397|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User Akmal Bositkhonov created a product Samsung A30 with Id 0 
+2020-02-19 13:40:56.0949|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User Akmal Bositkhonov edited a product Samsung A30 with Id 14 
+2020-02-19 13:43:09.6709|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-19 13:43:18.3698|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User Akmal Bositkhonov edited a product Samsung A30 with Id 14 
+2020-02-19 13:49:03.1956|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-19 15:27:27.7495|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-19 15:27:35.3918|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User Akmal Bositkhonov edited a product ASUS with Id 1 
+2020-02-19 15:34:06.5133|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-19 15:34:18.0043|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User Akmal Bositkhonov edited a product ASUS with Id 1 
+2020-02-19 15:49:59.2342|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-19 15:50:09.8424|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-19 16:09:08.2498|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-19 16:09:12.4286|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-19 16:17:52.4836|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-19 16:22:40.0516|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-19 17:51:58.2367|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-19 18:15:26.4841|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-19 18:20:34.5775|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-19 18:22:17.9671|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User Akmal Bositkhonov edited a product ASUS5 with Id 1 
+2020-02-19 19:20:44.7075|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-19 19:21:17.8517|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User Akmal Bositkhonov edited a product ASUS5 with Id 1 
+2020-02-19 19:40:24.2773|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-19 19:41:04.0648|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User Akmal Bositkhonov edited a product ASUS5 with Id 1 
+2020-02-19 20:00:32.9005|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User Akmal Bositkhonov edited a product ASUS5 with Id 1 
+2020-02-19 20:31:43.6939|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-19 20:37:43.4630|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User Akmal Bositkhonov deleted a product  with Id 12 
+2020-02-19 20:38:02.3435|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User Akmal Bositkhonov created a product Lenovo 
+2020-02-19 20:38:39.8503|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|User Akmal Bositkhonov edited a product ASUS5 with Id 1 
+2020-02-19 21:34:56.9461|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
+2020-02-19 23:14:44.8767|INFO|WAD.CW2_WebApp._5529.Helpers.LogHelper|akmalWiut logged in
