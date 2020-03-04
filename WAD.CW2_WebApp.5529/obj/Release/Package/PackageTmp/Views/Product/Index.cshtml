@@ -1,0 +1,72 @@
+﻿@model PagedList.IPagedList<WAD.CW2_WebApp._5529.Models.ProductViewModel>
+@using Resources
+@using PagedList.Mvc
+@using WAD.CW2_WebApp._5529.Models
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>  @Html.Raw(Global.Products)</h2>
+
+<p>
+    @Html.ActionLink(ProductsTerms.CreateNew, "Create")
+</p>
+<div>
+    @using (Html.BeginForm("Index", "Product", FormMethod.Get))
+    {
+        @Html.TextBox("name", "", new { @class = "form-control" })
+        @Html.DropDownList("category", new SelectList(ViewBag.ListItems, "Value", "Text"), Test.selectCategory, new { @class = "form-control" })
+        @Html.DropDownList("criteria",
+EnumHelper.GetSelectList(typeof(SortCriteria)),
+new { @class = "form-control" })
+        @Html.DropDownList("order",
+EnumHelper.GetSelectList(typeof(SortOrder)),
+new { @class = "form-control" })
+
+        <input type="submit" value="@Html.Raw(ProductsTerms.Filter)" />
+
+
+    }
+    <br />
+</div>
+<table class="table">
+    <tr>
+        <th>
+            @Html.Raw(ProductsTerms.Name)
+        </th>
+        <th>
+            @Html.Raw(ProductsTerms.Price)
+        </th>
+        <th>
+            @Html.Raw(ProductsTerms.Category)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category)
+            </td>
+            <td>
+                @Html.ActionLink(ProductsTerms.Edit, "Edit", new { id = item.Id }) |
+                @Html.ActionLink(ProductsTerms.Details, "Details", new { id = item.Id }) |
+                @Html.ActionLink(ProductsTerms.Delete, "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+
+</table>
+
+  Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index",
+new { page, order = ViewBag.Order, name = ViewBag.Name, criteria = ViewBag.Criteria, category = ViewBag.Category }))
+                    Showing @Model.FirstItemOnPage to @Model.LastItemOnPage out of @Model.TotalItemCount Products

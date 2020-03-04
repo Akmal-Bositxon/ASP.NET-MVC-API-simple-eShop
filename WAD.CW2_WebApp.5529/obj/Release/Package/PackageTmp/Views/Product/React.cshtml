@@ -1,0 +1,133 @@
+﻿@using Resources
+@using WAD.CW2_WebApp._5529.Models
+@{
+    ViewBag.Title = "React";
+}
+<script src="~/Scripts/knockout-3.5.1.js"></script>
+<script src="~/Scripts/jquery-3.3.1.min.js"></script>
+
+<div class="col col-md-12">
+
+    <table class="table-responsive">
+        <thead>
+            <tr>
+
+                <td><h3><b>@Html.Raw(ProductsTerms.Name)</b></h3></td>
+                <td><h3><b>@Html.Raw(ProductsTerms.Price)</b></h3></td>
+                <td><h3><b>@Html.Raw(ProductsTerms.Category)</b></h3></td>
+
+            </tr>
+        </thead>
+        <tbody data-bind="foreach: products">
+            <tr>
+
+                <td><span data-bind="text: Name"></span></td>
+                <td><span data-bind="text: Price"></span></td>
+                <td><span data-bind="text: Category"></span></td>
+                <td><input type="button" data-bind="click: $parent.removeProduct" value=@Html.Raw(ProductsTerms.Delete) /></td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+
+                <td>
+                    <input type="text" data-bind="value: productName" placeholder="@Html.Raw(ProductsTerms.Name)" />
+                </td>
+                <td>
+
+                    <input type="number" data-bind="value: productPrice" placeholder="@Html.Raw(ProductsTerms.Price)" />
+                </td>
+                <td>
+                    <input type="text" data-bind="value: productCategory" placeholder="@Html.Raw(ProductsTerms.Category)" />
+                </td>
+                <td>
+                    <input type="button" data-bind="click: addProduct" value=@Html.Raw(Test.Create) />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="text"  data-bind="value: productNameFilter, text:urlVar" placeholder="@Html.Raw(ProductsTerms.Name)" />
+                   </td><td> <select data-bind="sortCriteriaFilter">
+                        <option>Name</option>
+                        <option>Price</option>
+                    </select></td><td>
+                    <select data-bind="sortOrderFilter">
+                        <option>ASC</option>
+                        <option>DESC</option>
+                    </select>
+                </td><td>
+                    <input type="button" data-bind="click: filterProduct" value=@Html.Raw(ProductsTerms.Filter) />
+                    </td>
+                
+            </tr>
+        </tfoot>
+    </table>
+
+</div>
+
+<script>
+    function ObservableProduct(id, name, price, category) {
+        this.Id = ko.observable(id);
+        this.Name = ko.observable(name);
+        this.Price = ko.observable(price);
+        this.Category = ko.observable(category);
+    };
+
+    function AppViewModel() {
+        var urlVar = "/api/Products/GetProducts?name=&category=&criteria=&order=ASC";
+        var self = this;
+        self.products = ko.observableArray([]);
+        $.ajax({
+            url: urlVar,
+            method: "GET",
+            success: function (data) {
+                self.products(ko.utils.arrayMap(data, function (product) {
+                    return new ObservableProduct(product.Id, product.Name, product.Price, product.Category);
+                }));
+
+            }
+        });
+        self.filterProduct = function () {
+            urlVar = "/api/Products/GetProducts?name=as&category=&criteria=Name&order=DESC";
+        };
+
+        self.addProduct = function () {
+            $.ajax({
+                url: "/api/Products/PostProduct",
+                method: "POST",
+                data: {
+                    
+                    Name: self.productName,
+                    Price: self.productPrice,
+                    Category: self.productCategory
+                },
+                success: function (data) {
+                    self.products.push(new ObservableProduct(data.Id, data.Name, data.Price, data.Category));
+                }
+            });
+        };
+
+        self.removeProduct = function (product) {
+            $.ajax({
+                url: "/api/Products/DeleteProduct/" + product.Id(),
+                method: "DELETE"
+            })
+                .done(function (data) {
+                    self.products.remove(product);
+                });
+        };
+     
+        this.productName = ko.observable("");
+        this.productPrice = ko.observable("");
+        this.productCategory = ko.observable("");
+    }
+    $(function () {
+        ko.applyBindings(new AppViewModel());
+    });
+</script>
+
+
+
+
+
+

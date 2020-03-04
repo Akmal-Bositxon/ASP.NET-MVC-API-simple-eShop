@@ -14,3 +14,21 @@ C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\Ar
 C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Release\ru\Resources.resources.dll
 C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Release\Resources.dll
 C:\Users\Администратор\Documents\Visual Studio 2015\Projects\WAD\ArbaUz\Resources\obj\Release\Resources.pdb
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\Resources\bin\Release\Resources.dll
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\Resources\bin\Release\Resources.pdb
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\Resources\bin\Release\ru\Resources.resources.dll
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\Resources\obj\Release\Resources.csprojAssemblyReference.cache
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\Resources\obj\Release\Resources.Category.resources
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\Resources\obj\Release\Resources.Index.resources
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\Resources\obj\Release\Resources.Global.resources
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\Resources\obj\Release\Resources.ProductsTerms.resources
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\Resources\obj\Release\Resources.Test.resources
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\Resources\obj\Release\Resources.Category.ru.resources
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\Resources\obj\Release\Resources.Index.ru.resources
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\Resources\obj\Release\Resources.Global.ru.resources
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\Resources\obj\Release\Resources.ProductsTerms.ru.resources
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\Resources\obj\Release\Resources.Test.ru.resources
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\Resources\obj\Release\Resources.csproj.GenerateResource.cache
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\Resources\obj\Release\ru\Resources.resources.dll
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\Resources\obj\Release\Resources.dll
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\Resources\obj\Release\Resources.pdb

@@ -1,0 +1,28 @@
+version: 0.0
+os: windows
+files:
+  - source: \eShopDAL\*
+    destination: c:\inetpub\wwwroot\webtest\eShopDAL
+  - source: \packages\*
+    destination: c:\inetpub\wwwroot\webtest\packages
+  - source: \Resources\*
+    destination: c:\inetpub\wwwroot\webtest\Resources
+  - source: \WAD.CW2_WebApp.5529
+    destination: c:\inetpub\wwwroot\webtest\WAD.CW2_WebApp.5529
+  - source: \WAD.CW2_WebApp.5529.sln
+    destination: c:\inetpub\wwwroot\webtest\
+  - source: \deletewebsite.ps1
+    destination: c:\temp
+  - source: \installwebsite.ps1
+    destination: c:\temp
+  - source: \deletewebsite.bat
+    destination: c:\temp
+  - source: \installwebsite.bat
+    destination: c:\temp
+hooks:
+  BeforeInstall:
+    - location: \deletewebsite.bat
+      timeout: 180
+  AfterInstall:
+    - location: \installwebsite.bat
+      timeout: 180

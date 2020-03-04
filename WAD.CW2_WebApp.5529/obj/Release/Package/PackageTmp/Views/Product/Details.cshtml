@@ -1,0 +1,42 @@
+﻿@model WAD.CW2_WebApp._5529.Models.ProductViewModel
+@using Resources
+@{
+    ViewBag.Title = "Details";
+}
+
+    <h2>@Html.Raw(ProductsTerms.Details)</h2>
+
+<div>
+    <h4>@Html.Raw(Global.Products)</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName(ProductsTerms.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayName(ProductsTerms.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayName(ProductsTerms.Category)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Category)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink(ProductsTerms.Edit, "Edit", new { id = Model.Id }) |
+    @Html.ActionLink(Global.Products, "Index")
+</p>

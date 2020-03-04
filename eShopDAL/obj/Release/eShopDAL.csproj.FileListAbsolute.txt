@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\eShopDAL\bin\Release\eShopDB.mdf
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\eShopDAL\bin\Release\eShopDB_log.ldf
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\eShopDAL\bin\Release\UserDB.mdf
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\eShopDAL\bin\Release\UserDB_log.ldf
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\eShopDAL\bin\Release\eShopDAL.dll.config
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\eShopDAL\bin\Release\eShopDAL.dll
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\eShopDAL\bin\Release\eShopDAL.pdb
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\eShopDAL\bin\Release\EntityFramework.dll
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\eShopDAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\eShopDAL\bin\Release\EntityFramework.xml
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\eShopDAL\obj\Release\eShopDAL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\eShopDAL\obj\Release\eShopDAL.csproj.CopyComplete
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\eShopDAL\obj\Release\eShopDAL.dll
+C:\Users\User\Desktop\WAD.CW2_WebApp.5529\ASP.NET-MVC-API-simple-eShop\eShopDAL\obj\Release\eShopDAL.pdb
