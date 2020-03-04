@@ -1,11 +1,11 @@
 version: 0.0
 os: windows
 files:
-  - source: \eShopDAL\*
+  - source: \eShopDAL\
     destination: c:\inetpub\wwwroot\webtest\eShopDAL
-  - source: \packages\*
+  - source: \packages\
     destination: c:\inetpub\wwwroot\webtest\packages
-  - source: \Resources\*
+  - source: \Resources\
     destination: c:\inetpub\wwwroot\webtest\Resources
   - source: \WAD.CW2_WebApp.5529
     destination: c:\inetpub\wwwroot\webtest\WAD.CW2_WebApp.5529
